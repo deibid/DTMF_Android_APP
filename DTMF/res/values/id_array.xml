@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <integer-array name="ids">
+        
+        
+        <item>0x7f08000d</item>
+        <item>0x7f080001</item>
+        <item>0x7f080002</item>
+        <item>0x7f080003</item>
+        <item>0x7f080005</item>
+        <item>0x7f080006</item>
+        <item>0x7f080007</item>
+        <item>0x7f080009</item>
+        <item>0x7f08000a</item>
+        <item>0x7f08000b</item>
+        <item>0x7f080004</item>
+        <item>0x7f080008</item>
+        <item>0x7f08000c</item>
+        <item>0x7f080010</item>
+        <item>0x7f08000e</item>
+        <item>0x7f08000f</item>
+        
+        
+   </integer-array>
+
+</resources>
